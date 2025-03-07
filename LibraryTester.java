@@ -22,7 +22,5 @@ public class LibraryTester {
         shelf2.addBook(book4);
         System.out.println(shelf1);
         System.out.println(shelf2);
-
-
     }
 }
